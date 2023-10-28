@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://123justinchen.github.io/"
+base_url = "https://yuanlab/"
 
 # The site title and description; used in feeds by default.
 title = "超快激光微纳制造实验室"
@@ -191,7 +191,7 @@ avatar = "images/avatar.jpg"
 
 [extra.social]
 #facebook = "RatanShreshtha"
-github = "https://123justinchen.github.io/"
+github = "https://123justinchen/"
 #gitlab = "ratanshreshtha"
 #keybase = "RatanShreshtha"
 #linkedin = "ratanshreshtha"
