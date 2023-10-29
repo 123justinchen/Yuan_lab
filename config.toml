@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://yuanlab/"
+base_url = "https://yuanlab"
 
 # The site title and description; used in feeds by default.
 title = "超快激光微纳制造实验室"
